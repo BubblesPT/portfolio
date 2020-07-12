@@ -13,8 +13,7 @@
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "heroku-postbuild": "gatsby build"
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^1.2.10",
